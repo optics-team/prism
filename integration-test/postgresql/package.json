@@ -16,7 +16,7 @@
     "collimator": "7.0.0",
     "hapi": "18.0.0",
     "jest": "23.6.0",
-    "node-fetch": "^1.6.3",
+    "node-fetch": "^2.6.1",
     "ts-jest": "23.10.5",
     "typescript": "3.2.4"
   },
